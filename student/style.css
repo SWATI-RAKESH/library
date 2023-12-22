@@ -1,0 +1,96 @@
+
+/*-------------------------------Main code   INDEX ---------------------------------------------------------*/
+
+.wrapper
+{
+	height: 660px;
+	width: 660px;
+}
+header
+{
+	height: 130px;
+	width: 1340px;
+	background-color: black;
+	padding: 10px;
+}
+section
+{
+	margin-top: -20px;
+	height: 534px;
+	width: 1519px;
+}
+footer
+{
+	
+	background-color: black;
+}
+.logo
+{
+	float :left;
+	padding-left: 20px;
+
+}
+.logo img 
+{
+	padding-left: 80px;
+}
+
+li a
+{
+	color: white;
+	text-decoration: none;
+}
+
+.box
+{
+	height: 300px;
+	width: 450px;
+	margin: 25px auto;
+	opacity: .6;
+	color: black;
+}
+
+/*--------------------------------st_login-----------------------------*/
+
+.log_img
+{
+	height: 650px;
+	margin-top: 0px;
+	background-image: url("images/3.jpg");
+}
+.box1
+{
+	height: 450px;
+	width: 450px;
+	opacity: .7;
+	color: black;
+	padding: 20px;
+}
+form .login
+{
+	margin-left: 270px;
+    width: 280px;
+}
+input
+{
+	height: 25px;
+	width: 300px;
+
+}
+/*------------------------------registration--------------------*/
+.reg_img
+{
+	height: 630px;
+	margin-top: 0px;
+	background-image: url("images/4.png");
+}
+.stulog
+{
+	height: 589px;
+	width: 450px;
+	background-color: black;
+	margin: 0px auto;
+	opacity: .7;
+	color: white;
+	padding: 20px;
+}
